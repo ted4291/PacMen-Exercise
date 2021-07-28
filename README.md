@@ -1,4 +1,4 @@
-PacMen Factory Project
+PacMen Exercise
 
 This a Javascript-based project which imports/appends PacMen images,
 then has them bounce and move around the screen. This project involves appending
